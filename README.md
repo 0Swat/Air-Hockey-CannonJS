@@ -4,8 +4,10 @@
 
 ## _Created by:_
 
-**Oskar Swat 
-Marcel Tracz** 
+- **Oskar Swat**   
+- **Marcel Tracz**
+
+
 *University of Lodz 2023*
 
 # Project Development History
